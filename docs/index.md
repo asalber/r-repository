@@ -25,7 +25,7 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [ggplot2](http://ggplot2.org/) Plots based on a grammar of graphics.
 - [gridExtra](https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html) Arrange different graphics (especially ggplot graphics) and tables in a dashboard.
 - [assertr](https://github.com/ropensci/assertr) Data validation.
-- 
+- [tidylog](https://elbersb.com/public/posts/tidylog100/) Provides feedback for data wrangling operations in R.
 
 ## Recipes
 

@@ -24,6 +24,7 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [dplyr](http://dplyr.tidyverse.org/) Data manipulation based on a grammar.
 - [ggplot2](http://ggplot2.org/) Plots based on a grammar of graphics.
 - [gridExtra](https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html) Arrange different graphics (especially ggplot graphics) and tables in a dashboard.
+- [ggcharts](https://github.com/thomas-neitmann/ggcharts). Simplify the creation of plots with ggplot.
 - [assertr](https://github.com/ropensci/assertr) Data validation.
 - [tidylog](https://elbersb.com/public/posts/tidylog100/) Provides feedback for data wrangling operations in R.
 

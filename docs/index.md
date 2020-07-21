@@ -27,6 +27,8 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [ggcharts](https://github.com/thomas-neitmann/ggcharts). Simplify the creation of plots with ggplot.
 - [assertr](https://github.com/ropensci/assertr) Data validation.
 - [tidylog](https://elbersb.com/public/posts/tidylog100/) Provides feedback for data wrangling operations in R.
+- [rstatix](https://www.rdocumentation.org/packages/rstatix) Provides a simple and intuitive pipe-friendly framework, coherent with the 'tidyverse' design philosophy, for performing basic statistical tests, including t-test, Wilcoxon test, ANOVA, Kruskal-Wallis and correlation analyses.
+- [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/index.html) Provides an extension of ggplot2 package for creating graphics with details from statistical tests included in the information-rich plots themselves.
 
 ## Recipes
 

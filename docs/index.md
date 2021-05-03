@@ -34,6 +34,9 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [rstatix](https://www.rdocumentation.org/packages/rstatix) Provides a simple and intuitive pipe-friendly framework, coherent with the 'tidyverse' design philosophy, for performing basic statistical tests, including t-test, Wilcoxon test, ANOVA, Kruskal-Wallis and correlation analyses.
 - [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/index.html) Provides an extension of ggplot2 package for creating graphics with details from statistical tests included in the information-rich plots themselves.
 - [reactable](https://glin.github.io/reactable/index.html) Interactive data tables for R, based on the React Table library and made with reactR. Similar to DT package.
+- [rhandsonetable](https://jrowen.github.io/rhandsontable/) Interactive Excel like-tables with powerful features like data validation, sorting, grouping, data binding, formulas or column ordering.
+- [gtsummary](https://education.rstudio.com/blog/2020/07/gtsummary/) The gtsummary package provides an elegant and flexible way to create publication-ready analytical and summary tables in R. Summarize data frames or tibbles and regression models.
+- [arsenal](https://cran.r-project.org/web/packages/arsenal/index.html)
 
 ## Recipes
 

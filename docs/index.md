@@ -19,9 +19,11 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [Advanced R](https://adv-r.hadley.nz) Advanced programming topics with R. The solutions to the exercises in this book are in [Advanced R solutions](https://advanced-r-solutions.rbind.io/).
 - [R for data science](https://r4ds.had.co.nz/). Advanced applications of R to data science.
 - [R packages](http://r-pkgs.had.co.nz/). How to create R packages.
+- [Analyse-R](https://afalco.github.io/analyse-R/index.html). An R manual covering the main aspects and packages of data analysis. In French.
 
 ## Courses and tutorials
-- [Teacups, Giraffes and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html). Original introduction to R and basic Statistics. 
+
+- [Teacups, Giraffes and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html). Original introduction to R and basic Statistics.
 
 ## Packages
 

@@ -39,6 +39,7 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [rhandsonetable](https://jrowen.github.io/rhandsontable/) Interactive Excel like-tables with powerful features like data validation, sorting, grouping, data binding, formulas or column ordering.
 - [gtsummary](https://education.rstudio.com/blog/2020/07/gtsummary/) The gtsummary package provides an elegant and flexible way to create publication-ready analytical and summary tables in R. Summarize data frames or tibbles and regression models.
 - [arsenal](https://cran.r-project.org/web/packages/arsenal/index.html)
+- [performance](https://easystats.github.io/performance/) Check and compare the quality of regression models fit.
 
 ## Recipes
 

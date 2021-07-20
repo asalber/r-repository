@@ -20,6 +20,7 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [R for data science](https://r4ds.had.co.nz/). Advanced applications of R to data science.
 - [R packages](http://r-pkgs.had.co.nz/). How to create R packages.
 - [Analyse-R](https://afalco.github.io/analyse-R/index.html). An R manual covering the main aspects and packages of data analysis. In French.
+- [Sample size calculation with R](https://med.und.edu/daccota/_files/pdfs/berdc_resource_pdfs/sample_size_r_module.pdf)
 
 ## Courses and tutorials
 

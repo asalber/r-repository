@@ -41,6 +41,7 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [gtsummary](https://education.rstudio.com/blog/2020/07/gtsummary/) The gtsummary package provides an elegant and flexible way to create publication-ready analytical and summary tables in R. Summarize data frames or tibbles and regression models.
 - [arsenal](https://cran.r-project.org/web/packages/arsenal/index.html)
 - [performance](https://easystats.github.io/performance/) Check and compare the quality of regression models fit.
+- [Amelia](https://raw.githubusercontent.com/asalber/rubricas/main/rubrica-estadistica.csv) Analysis of missing data and multiple imputation.
 
 ## Recipes
 
@@ -121,6 +122,18 @@ Seniority       0     4454 4454    7.99     8.17   0    2       5   12      48 â
 ```
 
 ### [Data validation](https://appsilon.com/data-quality/?nabc=1&nabe=4825491004194816:1)
+
+
+### Dealing with missing data and imputation
+
+Missing values map
+```r
+library(Amelia)
+data(freetrade)
+a.out <- amelia(freetrade, m = 5, ts = "year", cs = "country", p2s = 0)
+missmap(a.out)
+```
+
 
 ## Software tools
 

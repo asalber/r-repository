@@ -21,6 +21,7 @@ This repository contains a bunch of references, tutorials, courses, recipes, lib
 - [R packages](http://r-pkgs.had.co.nz/). How to create R packages.
 - [Analyse-R](https://afalco.github.io/analyse-R/index.html). An R manual covering the main aspects and packages of data analysis. In French.
 - [Sample size calculation with R](https://med.und.edu/daccota/_files/pdfs/berdc_resource_pdfs/sample_size_r_module.pdf)
+- [Debugging Shiny applications](https://shiny.rstudio.com/articles/debugging.html) Tips and tricks for debugging, tracing and error handling in Shiny applications.
 
 ## Courses and tutorials
 
